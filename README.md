@@ -9,3 +9,5 @@ Depending on your plugin manager add one of the following lines to your (n)vimrc
 Plugin '0ax1/lxvc'
 ### vim-plug
 Plug '0ax1/lxvc'
+
+Run your manager specific install command after that.
