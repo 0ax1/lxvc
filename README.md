@@ -10,4 +10,5 @@ Plugin '0ax1/lxvc'
 ### vim-plug
 Plug '0ax1/lxvc'
 
+<hr>
 Run your manager specific install command after that.
