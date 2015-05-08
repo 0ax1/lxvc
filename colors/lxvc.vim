@@ -1,20 +1,20 @@
-"      _
-"     | |
-"     | |_  __
-"     | \ \/ /
-"     | |>  <
-"     |_/_/\_\
+"   _
+"  | |_  ____   _____
+"  | \ \/ /\ \ / / __|
+"  | |>  <  \ V / (__
+"  |_/_/\_\  \_/ \___|
 
-" Name: lx
+
+" Name: lxvc
 " Author: Alexander Droste
-" Version: 1.2
+" Version: 1.3
 
 set background=dark
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name="lx"
+let g:colors_name="lxvc"
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
