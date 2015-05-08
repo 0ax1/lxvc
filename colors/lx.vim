@@ -314,9 +314,6 @@ hi IndentGuidesOdd                      ctermbg=234
 hi IndentGuidesEven                     guibg=#272727
 hi IndentGuidesEven                     ctermbg=234
 
-"Airline
-let g:airline_theme='lx'
-
 "Vimwiki
 hi VimwikiHeader1   ctermfg=blue
 hi VimwikiHeader2   ctermfg=blue
