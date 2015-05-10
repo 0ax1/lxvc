@@ -1,7 +1,7 @@
 # lxvc
 colorscheme for n/vim
 
-![ScreenShot](https://raw.github.com/0ax1/lx/master/pictures/lx-colorscheme.jpg)
+<img src="https://raw.github.com/0ax1/lx/master/pictures/lx-colorscheme.jpg" width="500">
 
 ## Installation
 Depending on your plugin manager add one of the following lines to your (n)vimrc:<br>
