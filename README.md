@@ -12,7 +12,7 @@ Depending on your plugin manager add one of the following lines to your (n)vimrc
 
 lxvc Colors for Plugins
 -----
-An [vim-airline](https://github.com/bling/vim-airline) theme is contained. 
+A [vim-airline](https://github.com/bling/vim-airline) theme is contained. 
 Set it with: `let g:airline_theme = 'lxvc'` in your n/vimrc.<br>
 Furthermore colors for [tagbar](https://github.com/majutsushi/tagbar), 
 [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides), 
