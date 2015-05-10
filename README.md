@@ -11,9 +11,18 @@ Plugin '0ax1/lxvc'
 Plug '0ax1/lxvc'
 
 *Run your manager specific install command after that.*
-<hr>
-### Airline Theme
+
+Airline Theme
+-----
+
 An Airline theme is contained. 
 Set it with: 
 `let g:airline_theme = 'lxvc'`
 in your n/vimrc.
+
+Other Plugins
+-----
+Furthermore colors for [tagbar](https://github.com/majutsushi/tagbar), 
+[vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides), 
+[vimwiki](https://github.com/vimwiki/vimwiki) &
+[vim-startify](https://github.com/mhinz/vim-startify) are set automatically.
