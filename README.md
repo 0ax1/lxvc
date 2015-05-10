@@ -11,3 +11,9 @@ Plugin '0ax1/lxvc'
 Plug '0ax1/lxvc'
 
 *Run your manager specific install command after that.*
+<hr>
+### Airline Theme
+An Airline theme is contained. 
+Set it with: 
+`let g:airline_theme = 'lxvc'`
+in your n/vimrc.
