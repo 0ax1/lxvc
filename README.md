@@ -4,7 +4,7 @@ A colorscheme for n/vim.
 <img src="https://raw.github.com/0ax1/lx/master/pictures/lx-colorscheme.jpg" width="500">
 
 ## Installation
-Depending on your plugin manager add one of the following lines to your (n)vimrc:<br>
+Depending on your plugin manager add one of the following lines to your n/vimrc:<br>
 [Vundle](https://github.com/gmarik/Vundle.vim): `Plugin '0ax1/lxvc'`<br>
 [vim-plug](https://github.com/junegunn/vim-plug): `Plug '0ax1/lxvc'`<br>
 
