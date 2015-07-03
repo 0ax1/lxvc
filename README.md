@@ -1,5 +1,5 @@
 # lxvc
-colorscheme for n/vim
+A colorscheme for n/vim.
 
 <img src="https://raw.github.com/0ax1/lx/master/pictures/lx-colorscheme.jpg" width="500">
 
