@@ -7,8 +7,8 @@ function! airline#themes#lxvc#refresh()
     let g:airline#themes#lxvc#palette.replace = g:airline#themes#lxvc#palette.normal
     let g:airline#themes#lxvc#palette.visual = g:airline#themes#lxvc#palette.normal
 
-    let s:SLNC = airline#themes#get_highlight('StatusLineNC')
-    let g:airline#themes#lxvc#palette.inactive = airline#themes#generate_color_map(s:SLNC, s:SLNC, s:SLNC)
+    let g:airline#themes#lxvc#palette.inactive = g:airline#themes#lxvc#palette.normal
+    let g:airline#themes#lxvc#palette.inactive_modified = g:airline#themes#lxvc#palette.normal
 
     let g:airline#themes#lxvc#palette.tabline = {
                 \ 'airline_tab':    ['#636970', '#363946','240','NONE'],
