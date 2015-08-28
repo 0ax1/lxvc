@@ -12,7 +12,7 @@ function! airline#themes#lxvc#refresh()
 
     let g:airline#themes#lxvc#palette.tabline = {
                 \ 'airline_tab':    ['#636970', '#363946','240','NONE'],
-                \ 'airline_tabsel': ['#e0e0e0', '#363946','250','NONE'],
+                \ 'airline_tabsel': ['#e0e0e0', '#363946','252','NONE'],
                 \ 'airline_tabtype': ['#e0e0e0', '#363946','240','NONE'],
                 \ 'airline_tabfill': ['#e0e0e0', '#363946','240','NONE'],
                 \ 'airline_tabhid':  ['#e0e0e0', '#363946','240','NONE'],
