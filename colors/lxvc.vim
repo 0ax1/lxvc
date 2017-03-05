@@ -228,17 +228,17 @@ hi StatusLineNC     ctermfg=235         ctermbg=248         cterm=bold
 """"""
 " DIFF
 """"""""""""""""""""""""
-hi DiffAdd          guifg=#80a090       guibg=#313c36       gui=NONE
-hi DiffAdd          ctermfg=0           ctermbg=66          cterm=NONE
+hi DiffAdd          guifg=#a2b9af       guibg=#28312c       gui=NONE
+hi DiffAdd          ctermfg=66          ctermbg=NONE        cterm=NONE
 
-hi DiffChange       guifg=#9a977b       guibg=#474536       gui=NONE
-hi DiffChange       ctermfg=0           ctermbg=101         cterm=NONE
+hi DiffChange       guifg=#706f5c       guibg=#383732       gui=NONE
+hi DiffChange       ctermfg=240         ctermbg=NONE        cterm=NONE
 
-hi DiffDelete       guifg=#6c6661       guibg=#4a343a       gui=NONE
-hi DiffDelete       ctermfg=0           ctermbg=95          cterm=NONE
+hi DiffDelete       guifg=#332428       guibg=#332428       gui=NONE
+hi DiffDelete       ctermfg=95          ctermbg=NONE        cterm=NONE
 
-hi DiffText         guifg=#e0e0e0       guibg=#474536       gui=NONE
-hi DiffText         ctermfg=0           ctermbg=101         cterm=NONE
+hi DiffText         guifg=#b3b2a2       guibg=#383732       gui=NONE
+hi DiffText         ctermfg=101         ctermbg=NONE        cterm=NONE
 
 
 """"""
