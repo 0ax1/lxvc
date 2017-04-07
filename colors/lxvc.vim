@@ -288,6 +288,26 @@ hi ColorColumn      guifg=#cc3333       guibg=#212121        gui=NONE
 hi ColorColumn      ctermfg=196         ctermbg=234          cterm=NONE
 
 """"""
+" TERMINAL
+""""""""""""""""""""""""
+let g:terminal_color_0="#000000"
+let g:terminal_color_1="#d8605d"
+let g:terminal_color_2="#73c69d"
+let g:terminal_color_3="#f3dd00"
+let g:terminal_color_4="#7675ff"
+let g:terminal_color_5="#a87dae"
+let g:terminal_color_6="#69a7cd"
+let g:terminal_color_7="#f7f7f7"
+let g:terminal_color_8="#dbdadb"
+let g:terminal_color_9="#e76867"
+let g:terminal_color_10="#76cea3"
+let g:terminal_color_11="#f8e256"
+let g:terminal_color_12="#7675ff"
+let g:terminal_color_13="#c862c5"
+let g:terminal_color_14="#78bde9"
+let g:terminal_color_15="#f1f1f0"
+
+""""""
 " PLUGIN COLORS
 """"""""""""""""""""""""
 
