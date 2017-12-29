@@ -143,8 +143,8 @@ hi CursorColumn     guifg=NONE          guibg=#404448       gui=NONE
 hi CursorLine                           guibg=#34373b       gui=NONE
 hi CursorLine       ctermfg=NONE        ctermbg=236         cterm=NONE
 
-hi CursorLineNr		            		guifg=#8895dd       gui=bold
-hi CursorLineNr		ctermfg=blue        ctermbg=NONE        cterm=bold
+hi CursorLineNr     guifg=#8895dd                           gui=bold
+hi CursorLineNr     ctermfg=blue        ctermbg=NONE        cterm=bold
 
 hi Directory        guifg=#c0e0b0                           gui=NONE
 hi Directory        ctermfg=darkgreen   ctermbg=NONE        cterm=NONE
@@ -265,11 +265,8 @@ hi FoldColumn       ctermfg=darkgrey    ctermbg=NONE         cterm=NONE
 " SPELLING
 """"""""""""""""""""""""
 hi SpellBad         guisp=#ee0000                            gui=undercurl
-
 hi SpellCap         guisp=#eeee00                            gui=undercurl
-
 hi SpellRare        guisp=#ffa500                            gui=undercurl
-
 hi SpellLocal       guisp=#ffa500                            gui=undercurl
 
 
@@ -350,19 +347,19 @@ hi VimwikiHeader5   guifg=#8895dd
 hi VimwikiHeader6   guifg=#8895dd
 
 "Startify
-highlight StartifyBracket    ctermfg=240    guifg=#636970
-highlight StartifyFile       ctermfg=245    guifg=#a5a9af
-highlight StartifyFooter     ctermfg=240    guifg=#636970
-highlight StartifyHeader     ctermfg=240    guifg=#636970
-highlight StartifyNumber     ctermfg=blue   guifg=#6071d1
-highlight StartifyPath       ctermfg=240    guifg=#636970
-highlight StartifySlash      ctermfg=240    guifg=#636970
-highlight StartifySection    ctermfg=240    guifg=#636970
-highlight StartifySelection  ctermfg=240    guifg=#636970
-highlight StartifySpecial    ctermfg=240    guifg=#636970
+hi StartifyBracket    ctermfg=240    guifg=#636970
+hi StartifyFile       ctermfg=245    guifg=#a5a9af
+hi StartifyFooter     ctermfg=240    guifg=#636970
+hi StartifyHeader     ctermfg=240    guifg=#636970
+hi StartifyNumber     ctermfg=blue   guifg=#6071d1
+hi StartifyPath       ctermfg=240    guifg=#636970
+hi StartifySlash      ctermfg=240    guifg=#636970
+hi StartifySection    ctermfg=240    guifg=#636970
+hi StartifySelection  ctermfg=240    guifg=#636970
+hi StartifySpecial    ctermfg=240    guifg=#636970
 
+"EasyMotion
 hi link EasyMotionTarget Number
 hi link EasyMotionShade  Comment
-
 hi link EasyMotionTarget2First MatchParen
 hi link EasyMotionTarget2Second MatchParen
