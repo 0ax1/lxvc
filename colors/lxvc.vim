@@ -219,7 +219,7 @@ hi PMenuThumb                           guibg=#808890       gui=NONE
 " STATUS
 """"""""""""""""""""""""
 hi StatusLine       guifg=#e0e0e0       guibg=#363946       gui=bold
-hi StatusLine       ctermfg=254         ctermbg=NONE        cterm=bold
+hi StatusLine       ctermfg=blue        ctermbg=NONE        cterm=bold
 
 hi StatusLineNC     guifg=#767986       guibg=#363946       gui=NONE
 hi StatusLineNC     ctermfg=240         ctermbg=NONE        cterm=bold
