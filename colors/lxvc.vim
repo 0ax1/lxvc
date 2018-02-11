@@ -147,7 +147,7 @@ hi CursorLineNr     guifg=#8895dd                           gui=bold
 hi CursorLineNr     ctermfg=blue        ctermbg=NONE        cterm=bold
 
 hi Directory        guifg=#c0e0b0                           gui=NONE
-hi Directory        ctermfg=darkgreen   ctermbg=NONE        cterm=NONE
+hi Directory        ctermfg=blue        ctermbg=NONE        cterm=NONE
 
 hi ErrorMsg         guifg=#574b4b       guibg=NONE          gui=NONE
 hi ErrorMsg         ctermfg=white       ctermbg=NONE        cterm=NONE
