@@ -267,6 +267,8 @@ hi SpellBad         guifg=#ee0000      guibg=NONE            gui=undercurl
 hi SpellBad         ctermfg=1          ctermbg=NONE          cterm=NONE
 
 hi SpellCap         guisp=#eeee00                            gui=undercurl
+hi SpellCap         ctermfg=1          ctermbg=NONE          cterm=NONE
+
 hi SpellRare        guisp=#ffa500                            gui=undercurl
 hi SpellLocal       guisp=#ffa500                            gui=undercurl
 
