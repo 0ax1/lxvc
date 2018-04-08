@@ -141,7 +141,7 @@ hi CursorIM         guifg=bg            guibg=#96cdcd
 hi CursorColumn     guifg=NONE          guibg=#404448       gui=NONE
 
 hi CursorLine                           guibg=#34373b       gui=NONE
-hi CursorLine       ctermfg=NONE        ctermbg=236         cterm=NONE
+hi CursorLine       ctermfg=NONE        ctermbg=0         cterm=NONE
 
 hi CursorLineNr     guifg=#8895dd                           gui=bold
 hi CursorLineNr     ctermfg=blue        ctermbg=NONE        cterm=bold
@@ -282,7 +282,7 @@ hi OverLength       guifg=#cc3333       guibg=#592929
 hi OverLength       ctermfg=196         ctermbg=0
 
 hi ColorColumn      guifg=#cc3333       guibg=#212121        gui=NONE
-hi ColorColumn      ctermfg=196         ctermbg=234          cterm=NONE
+hi ColorColumn                          ctermbg=0            cterm=NONE
 
 """"""
 " TERMINAL
@@ -326,10 +326,10 @@ hi TagbarVisibilityProtected ctermfg=darkgrey
 
 "IndentGuides
 hi IndentGuidesOdd                      guibg=#272727
-hi IndentGuidesOdd                      ctermbg=234
+hi IndentGuidesOdd                      ctermbg=0
 
 hi IndentGuidesEven                     guibg=#272727
-hi IndentGuidesEven                     ctermbg=234
+hi IndentGuidesEven                     ctermbg=0
 
 "Vimwiki
 hi VimwikiHeader1   ctermfg=blue
