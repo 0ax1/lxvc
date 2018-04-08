@@ -126,6 +126,9 @@ hi Ignore           ctermfg=darkgrey    ctermbg=NONE        cterm=NONE
 hi Error            guifg=#e37170       guibg=#432323       gui=NONE
 hi Error            ctermfg=1           ctermbg=NONE        cterm=NONE
 
+hi Warning          guifg=#e37170       guibg=#432323       gui=NONE
+hi Warning          ctermfg=1           ctermbg=NONE        cterm=NONE
+
 hi Todo             guifg=#e0e090       guibg=NONE          gui=underline
 hi Todo             ctermfg=black       ctermbg=blue        cterm=NONE
 
@@ -366,3 +369,7 @@ hi link EasyMotionTarget Number
 hi link EasyMotionShade  Comment
 hi link EasyMotionTarget2First MatchParen
 hi link EasyMotionTarget2Second MatchParen
+
+"Syntastic
+hi link SyntasticErrorSign Error
+hi link SyntasticWarningSign Warning
