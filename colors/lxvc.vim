@@ -205,10 +205,10 @@ hi Title            ctermfg=darkgrey    ctermbg=NONE
 " COMPLETION
 """"""""""""""""""""""""
 hi Pmenu            guifg=#e0e0e0       guibg=#101010       gui=NONE
-hi Pmenu            ctermfg=darkgrey    ctermbg=black       cterm=reverse
+hi Pmenu            ctermfg=white       ctermbg=0           cterm=NONE
 
 hi PmenuSel         guifg=#a5a9af       guibg=#202020       gui=NONE
-hi PmenuSel         ctermfg=black       ctermbg=darkgrey    cterm=bold
+hi PmenuSel         ctermfg=black       ctermbg=white       cterm=NONE
 
 hi PMenuSbar                            guibg=#505860       gui=NONE
 
